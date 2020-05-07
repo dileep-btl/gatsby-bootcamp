@@ -13,6 +13,7 @@ const IndexPage = () => {
       }
     }
   `)
+
   return (
     <Layout>
       <Head title="Home" />
